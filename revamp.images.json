@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "images": {
+    "auden-avatar": {
+      "src": "/images/imported/image_42.webp",
+      "max_width": 420,
+      "sizes": "(min-width: 900px) 30vw, (min-width: 601px) 34vw, 90vw",
+      "crop": {
+        "width": 1,
+        "height": 1,
+        "position": "centre"
+      },
+      "loading": "eager"
+    }
+  }
+}

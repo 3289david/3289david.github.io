@@ -1,0 +1,26 @@
+# Product facts and preservation map
+
+- Current displayed portfolio name requested by customer: Audest (replacing Auden). GitHub username and profile remain `3289david` (`https://github.com/3289david`). Profile facts and repository URLs continue to refer to the same account; the display name change does not change the GitHub username.
+- Profile describes him as a full-stack developer in Seoul, interested in web development, cloud infrastructure, security and open source.
+- Profile-listed technologies: JavaScript, TypeScript, HTML, CSS, Node.js, Express, Python, Linux, Git, Cloudflare and Vercel.
+- User-designated current workbench projects: Burnae (`https://github.com/3289david/burnae`), SilentShield (`https://github.com/3289david/SilentShield`) and Auren (`https://github.com/3289david/auren`). Digital Passport is listed in section 02 and links to `https://github.com/3289david/digital-passport`, as supplied by the customer; no feature claims added. Other profile repository names include GiveMeSomeTokens, ai-terminal, mdview-cli, ai-ghost-blogger and ismyblog.
+- Contact listed in GitHub README: mailto:contact@rukkit.net.
+- Supplied personal sites (preserve as exact external destinations):
+  - https://burnae.kr
+  - https://filetosite.com
+  - https://givemesometokens.dev
+  - https://ismy.blog
+  - https://krl.kr
+  - https://modderai.net
+  - https://proxywarp.com
+  - https://rukkitai.org
+  - https://rukkit.net
+  - https://shopvalor.cc
+  - https://textly.im
+- GitHub profile: https://github.com/3289david
+- Portfolio hero image: customer-provided square avatar illustration (`image_42`), depicting a gray wolf character with blue eyes resting its head on a surface. The user requested this image and the existing Docker-themed visual only; exclude the earlier wide landscape artwork.
+- Prior GitHub avatar source: https://avatars.githubusercontent.com/u/220877654?v=4
+- User-provided animated GIF: https://miro.medium.com/v2/1*E8IgOSkMTpBRs0w0-Zsx2g.gif
+- Selected Work includes ADOFAI Verse at `https://github.com/3289david/ADOFAI-Verse` instead of Auren, avoiding repeating Auren from the Currently Building workbench. Other customer-listed repository destinations remain: burnae, Furry, textly-wakeup, rukkitai, ismyblog, krl-kr, GiveMeSomeTokens, silentshield, Forgelite, Monote. Digital Passport is additionally linked to the customer-supplied URL recorded above.
+- Other useful profile destinations: https://github.com/3289david/SilentShield, https://github.com/3289david/ADOFAI-Verse, https://github.com/3289david/krl-kr, https://github.com/3289david/GiveMeSomeTokens, https://github.com/3289david/ai-terminal, https://github.com/3289david/mdview-cli, https://github.com/3289david/ai-ghost-blogger, https://github.com/3289david/ismyblog
+- Do not claim repository-specific features beyond the inspection evidence; only give confirmed descriptions for projects explicitly supported by profile evidence.
