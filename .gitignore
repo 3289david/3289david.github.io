@@ -4,6 +4,7 @@ dist
 .vinext
 .wrangler
 .revamp
+/public/images/responsive/
 .env*
 !.env.example
 *.tsbuildinfo

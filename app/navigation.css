@@ -1,0 +1,8 @@
+/* Shared navigation baseline. Keep this imported when redesigning globals.css.
+   Match --revamp-anchor-offset to the sticky header, or override scroll-mt per target. */
+@layer base {
+  @media (prefers-reduced-motion: no-preference) {
+    html { scroll-behavior: smooth; }
+  }
+  [id] { scroll-margin-top: var(--revamp-anchor-offset, 6rem); }
+}
